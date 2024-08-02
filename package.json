@@ -18,7 +18,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "near-api-js": "^0.44.2",
+    "near-api-js": "^0.45.1",
     "near-units": "^0.1.9",
     "prompts": "^2.4.2",
     "ts-node": "^10.9.2",
